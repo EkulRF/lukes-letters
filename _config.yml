@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Luke's Letters
 
 # Your name to show in the footer
-author: Some Person
+author: Luke Richardson-Foulger
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,10 +21,11 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Blog: "blog"
+  #Useful:
+  #  - Linktree: ""
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  Linktree: ""
 
 ################
 # --- Logo --- #
@@ -50,20 +51,20 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "luke.richardson-foulger@gmail.com.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: https://www.facebook.com/profile.php?id=100010465969242
+  github: https://github.com/EkulRF
+  twitter: https://twitter.com/ObeyingMyBrain
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: https://www.linkedin.com/in/luke-richardson-foulger/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: https://www.instagram.com/ekulrf/
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -73,8 +74,8 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  ORCID: 0009-0006-8496-8300
+  google-scholar: https://scholar.google.com/citations?user=kW4xHbcAAAAJ&hl=en
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -82,7 +83,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -97,7 +98,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
