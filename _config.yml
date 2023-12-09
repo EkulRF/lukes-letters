@@ -51,20 +51,20 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "luke.richardson-foulger@gmail.com.com"
+  email: luke.richardson-foulger@gmail.com
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: https://www.facebook.com/profile.php?id=100010465969242
-  github: https://github.com/EkulRF
-  twitter: https://twitter.com/ObeyingMyBrain
+  facebook: profile.php?id=100010465969242
+  github: EkulRF
+  twitter: ObeyingMyBrain
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: https://www.linkedin.com/in/luke-richardson-foulger/
+  linkedin: luke-richardson-foulger
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: https://www.instagram.com/ekulrf/
+  instagram: ekulrf
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -75,7 +75,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  bluesky: yourname
   ORCID: 0009-0006-8496-8300
-  google-scholar: https://scholar.google.com/citations?user=kW4xHbcAAAAJ&hl=en
+  google-scholar: kW4xHbcAAAAJ&hl=en
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
