@@ -10,9 +10,10 @@ author: Luke RF
 ---
 
 
-<a href="../_posts/photo_archival/mum.md">
+<a href="https://ekulrf.github.io/lukes-letters/_posts/photo_archival/mum.html">
   <img alt="Mum's Photos" src="https://lh3.googleusercontent.com/pw/ADCreHdmFjQIxu1AdI8vVeBnlWHq0Y8iPUksPQjpF7K0QgHXoJ-OMYsjYXChN4o_5FXwRwnHoJ_JTcvodpZmthezgDxhAXYbk1ON0i7NJd7M3CtB9rDQWtr4CPaRWJo-uc4y22gOEn2B4e3D6_5F4rZJ4r76=w1413-h955-s-no?authuser=1">
 </a>
+
 
 
 <!-- [![Mum's Photos](https://lh3.googleusercontent.com/pw/ADCreHdmFjQIxu1AdI8vVeBnlWHq0Y8iPUksPQjpF7K0QgHXoJ-OMYsjYXChN4o_5FXwRwnHoJ_JTcvodpZmthezgDxhAXYbk1ON0i7NJd7M3CtB9rDQWtr4CPaRWJo-uc4y22gOEn2B4e3D6_5F4rZJ4r76=w1413-h955-s-no?authuser=1)](../_posts/photo_archival/mum.md)
