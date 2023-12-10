@@ -1,16 +1,8 @@
 ---
 layout: post
-title: (WIP) post abt photo archival
-subtitle: Preserving old family photos, one scan at a time.
-gh-repo: daattali/beautiful-jekyll
-# gh-badge: []
-tags: [archival, photography]
+# gh-repo: daattali/beautiful-jekyll
 comments: true
-author: Luke RF
 ---
-
-[![Mum's Photos](https://lh3.googleusercontent.com/pw/ADCreHdmFjQIxu1AdI8vVeBnlWHq0Y8iPUksPQjpF7K0QgHXoJ-OMYsjYXChN4o_5FXwRwnHoJ_JTcvodpZmthezgDxhAXYbk1ON0i7NJd7M3CtB9rDQWtr4CPaRWJo-uc4y22gOEn2B4e3D6_5F4rZJ4r76=w1413-h955-s-no?authuser=1)](photo_archival/mum.md)
-
 
 Photo album 1a: assorted photos from my mum's side of the family + some polaroid baby pics of me
 [![Album 1a](https://lh3.googleusercontent.com/pw/ADCreHcGtp2bjE18AXt1O3yXaz86vSJNEnID28DFcFddK1_ZsMTLFslJZB53zWCkTPlix55YtSQJfepTCqMCvdSWQqCWEOhZwy1YD8nlUspbsL8D3bDySGe84M8_JY39qxpo3-CiXbvufkUWWwheVazGe94DoA=w1516-h995-s-no?authuser=1)](https://photos.app.goo.gl/HbmS7i1GJLWVNCfcA)
