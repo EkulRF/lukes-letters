@@ -257,7 +257,8 @@ timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
-paginate: 5
+paginate: 5 # Set the number of posts you want per page
+paginate_path: "/page:num/" # Set the pagination path
 
 kramdown:
   input: GFM
