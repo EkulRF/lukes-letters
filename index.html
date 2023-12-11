@@ -3,3 +3,16 @@ layout: home
 title: Luke's Letters
 subtitle: Sharing things I do occassionally.
 ---
+
+<h1>Recent Posts</h1>
+
+{% for post in site.posts %}
+  {% unless post.collection == 'excluded_posts' %}
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <p>{{ post.excerpt }}</p>
+  {% endunless %}
+{% endfor %}
+
+<div class="pagination">
+  <!-- Pagination code here -->
+</div>
