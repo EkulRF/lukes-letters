@@ -2,27 +2,15 @@
 layout: post
 title: Photography Archival Project (from the Summer of '22)
 subtitle: Preserving old family photos, one scan at a time.
-# gh-repo: daattali/beautiful-jekyll
-# gh-badge: []
 tags: [archival, photography]
 comments: true
 author: Luke RF
+thumbnail-img: https://lh3.googleusercontent.com/pw/ABLVV86qBjyGhbcOHw2dkhJjn0ghdDxrLLSiT-Jf8A0nTL9TCQ3rQaZ_xPRRgWxvd_y2-fgk85Umv_ZLo5qwZGQ1DvClnkmOO7OI5NvSX63cd523aUn26QLR_ImYeK3DrV8qnvB8ogxRsky_Ijl9PGeNx7Mz7iSQ1j6pQXYonAiO_vZuasJUvM8ya9GxQ7QchJVsDlPiCbVrtBU79hBLYs_wr1ZgMS4H2VVeu3KHRmuoqEHgxxBhLCEwx4B1hgaHsbLQKZIOGXRbeVuDmlZsTAN9fJck6x8zcrwDXIyYTAlBVc5x8r2ipP-xjcE6wN74ly2IkiOL_PapZ_bIFDX293dmLUa8BrBcT2EbdLh0xHPjcGgeeo4wpBkYq1glPgFrGwoUTdiatVVVbcqXCvl3WkA1t3kNHH8sF-tcGDqh1DQlFCOlGbPVL-eztxiQhf8O89h1Ni5tozdq8urP_w4Ah9HB7GWZGKlOXalaVopVmQDciSKDLdEBkCc3z5O8cPmiZHHU6uSQ_wutfvZZjkFXBxH8J3EhZ3kaFgnGxrTJnibeB1XIKi-jKPst6e24VPXXu2MfgfNDTOt0HDZCoIFnvMen09STrBIgaYbxchD-mRSrEnFt2EMeI5TqQIqLvqeGrKO9Db5FP7BTE7d_cJUWZr0xhymRKsE7W0Ez4z5yHxxwX0PM8Hyxy6zgr7TamjIE1cYLQaYb09YC58dtLF9VZ2W8Ho7ISPQXS3u4Nx4xOjYjm8-FgyRkqGjHoAZgjNS5_OwJojRzZSZTqwjM6vJ5-ScuLxLT45hir3HVc5x8vZhWA7Ib5kn1gLJrDQ6uIYscw92qL3iVIrXTCl8FIOPEybf3uYd8BFI8pwqdn_rJAJHPVdwyYFPKYc-PbxPIy7RlolTm07d0kH6CqGDW0-TakE4RkUHLD5NfFenvH1ynoSGuS6f3s54EjQH57YSYg1ZmNCxy4q4pKRVB1L1TCA=w995-h995-s-no?authuser=1
+share-img: https://lh3.googleusercontent.com/pw/ABLVV86qBjyGhbcOHw2dkhJjn0ghdDxrLLSiT-Jf8A0nTL9TCQ3rQaZ_xPRRgWxvd_y2-fgk85Umv_ZLo5qwZGQ1DvClnkmOO7OI5NvSX63cd523aUn26QLR_ImYeK3DrV8qnvB8ogxRsky_Ijl9PGeNx7Mz7iSQ1j6pQXYonAiO_vZuasJUvM8ya9GxQ7QchJVsDlPiCbVrtBU79hBLYs_wr1ZgMS4H2VVeu3KHRmuoqEHgxxBhLCEwx4B1hgaHsbLQKZIOGXRbeVuDmlZsTAN9fJck6x8zcrwDXIyYTAlBVc5x8r2ipP-xjcE6wN74ly2IkiOL_PapZ_bIFDX293dmLUa8BrBcT2EbdLh0xHPjcGgeeo4wpBkYq1glPgFrGwoUTdiatVVVbcqXCvl3WkA1t3kNHH8sF-tcGDqh1DQlFCOlGbPVL-eztxiQhf8O89h1Ni5tozdq8urP_w4Ah9HB7GWZGKlOXalaVopVmQDciSKDLdEBkCc3z5O8cPmiZHHU6uSQ_wutfvZZjkFXBxH8J3EhZ3kaFgnGxrTJnibeB1XIKi-jKPst6e24VPXXu2MfgfNDTOt0HDZCoIFnvMen09STrBIgaYbxchD-mRSrEnFt2EMeI5TqQIqLvqeGrKO9Db5FP7BTE7d_cJUWZr0xhymRKsE7W0Ez4z5yHxxwX0PM8Hyxy6zgr7TamjIE1cYLQaYb09YC58dtLF9VZ2W8Ho7ISPQXS3u4Nx4xOjYjm8-FgyRkqGjHoAZgjNS5_OwJojRzZSZTqwjM6vJ5-ScuLxLT45hir3HVc5x8vZhWA7Ib5kn1gLJrDQ6uIYscw92qL3iVIrXTCl8FIOPEybf3uYd8BFI8pwqdn_rJAJHPVdwyYFPKYc-PbxPIy7RlolTm07d0kH6CqGDW0-TakE4RkUHLD5NfFenvH1ynoSGuS6f3s54EjQH57YSYg1ZmNCxy4q4pKRVB1L1TCA=w995-h995-s-no?authuser=1
+#cover-img: ...
 ---
 
-{% for post in paginator.posts %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  <p>{{ post.excerpt }}</p>
-{% endfor %}
-
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% endif %}
-  <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% endif %}
-</div>
+CanoScan LiDE 300.
 
 <a href="https://ekulrf.github.io/lukes-letters/photo-mum/">
   <img alt="Mum's Photos" src="https://lh3.googleusercontent.com/pw/ADCreHdmFjQIxu1AdI8vVeBnlWHq0Y8iPUksPQjpF7K0QgHXoJ-OMYsjYXChN4o_5FXwRwnHoJ_JTcvodpZmthezgDxhAXYbk1ON0i7NJd7M3CtB9rDQWtr4CPaRWJo-uc4y22gOEn2B4e3D6_5F4rZJ4r76=w1413-h955-s-no?authuser=1">
