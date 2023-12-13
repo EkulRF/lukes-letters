@@ -12,7 +12,7 @@ share-img: https://lh3.googleusercontent.com/pw/ABLVV86qBjyGhbcOHw2dkhJjn0ghdDxr
 
 Preserving photographs is a cool thing to do. Today, photos are very disposable so it can be easy to forget their worth. Photography is a form of memory and can often serve to sustain a moment in time far better than the mind. Physical objects are impermanent and it is lucky we have what we do. In a wake of anxiety of losing memories I did not have, either because I forget things or I didn't exist, I decided to scan every possible thing I could find in the summer of 2022. Digitising analogue photography takes a while but is an incredibly satisfying and worthwhile process.
 
-I bought myself a scanner, a CanoScan LiDE 300 to be precise. It is incredibly fun to use, and I recommend anyone reading to buy a scanner for yourself (or borrow mine!) Below is a record of photo albums, sorted, more often than not, how I found them scattered about my house or my Nan's flat. Click on the photos to be taken to pages where these photo albums are linked - I've sorted them into: Mum's photos, Nan's photos, Family photos, Dad's photos.
+I bought myself a scanner, a CanoScan LiDE 300 to be precise. It is incredibly fun to use, and I recommend anyone reading to buy a scanner for yourself (or borrow mine!) Below is a record of photo albums, sorted, more often than not, how I found them scattered about my house or my Nan's flat. Click on the photos to be taken to pages where these photo albums are linked - I've sorted them into: [Mum's photos](https://ekulrf.github.io/lukes-letters/photo-mum/), [Nan's photos](https://ekulrf.github.io/lukes-letters/photo-nan/), [Family photos](https://ekulrf.github.io/lukes-letters/photo-familyDrawers/), [Dad's photos](https://ekulrf.github.io/lukes-letters/photo-dad/).
 
 Enjoy!
 
@@ -28,7 +28,7 @@ Nan's Photos
 
 Family Photos
 <a href="https://ekulrf.github.io/lukes-letters/photo-familyDrawers/">
-  <img alt="Scattered About The House" src="https://lh3.googleusercontent.com/pw/ADCreHdGBpgwIIukrmqhCL0BipfO6RNbDSuEnrtSx5mYrgxXv8xrcQoF2pdXpp0sPAmvys9E0Uw6yNAEp8BTc-hQBYF4t9itL9VK_KtnVr-1VDK9Da4GErPPvYVErdQTH3Sq5znsrA63JZuBbqtV0X9Qi5lC=w1245-h955-s-no?authuser=1">
+  <img alt="Scattered About The House" src="https://lh3.googleusercontent.com/pw/ABLVV85DqPuyadyBoQy3GyFuY0QcVaMuFTHUuNBNQjUaczvsmk5C2ga2_O1hsRzqzI0WcKgFJRCgZTWNAr-xmwK6dqlWqpRVAIYQSVcLjbQgKI9ulNjZ5IITshHqI0SxEgjiv5cfsnqRxeOOMh7wZoiC0Zfn=w964-h639-s-no?authuser=1">
 </a>
 
 Dad's Photos
