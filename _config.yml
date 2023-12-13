@@ -55,7 +55,7 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: /profile.php?id=100010465969242
   github: /EkulRF
-  twitter: /ObeyingMyBrain
+  twitter: ObeyingMyBrain
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
@@ -135,14 +135,14 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#401B35"
-navbar-text-col: "#f0f5f1"
+navbar-text-col: "#2e2e2e"
 navbar-border-col: "#242424"
 page-col: "#1b4026"
 text-col: "#f0f5f1"
 link-col: "#ff895e"
 hover-col: "#ff5719"
 footer-col: "#401B35"
-footer-text-col: "#777777"
+footer-text-col: "#2e2e2e"
 footer-link-col: "#ff895e"
 footer-hover-col: "#ff5719"
 
