@@ -9,21 +9,9 @@ comments: true
 author: Luke RF
 ---
 
-{% for post in paginator.posts %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  <p>{{ post.excerpt }}</p>
-{% endfor %}
+**Preamble*
 
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% endif %}
-  <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% endif %}
-</div>
-
+Click below to find Google Photo albums from my Mum and her side of the family.
 <a href="https://ekulrf.github.io/lukes-letters/photo-mum/">
   <img alt="Mum's Photos" src="https://lh3.googleusercontent.com/pw/ADCreHdmFjQIxu1AdI8vVeBnlWHq0Y8iPUksPQjpF7K0QgHXoJ-OMYsjYXChN4o_5FXwRwnHoJ_JTcvodpZmthezgDxhAXYbk1ON0i7NJd7M3CtB9rDQWtr4CPaRWJo-uc4y22gOEn2B4e3D6_5F4rZJ4r76=w1413-h955-s-no?authuser=1">
 </a>
