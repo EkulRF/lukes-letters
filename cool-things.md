@@ -13,6 +13,12 @@ Cool open-source data.
 - [Ordnance Survey](https://osdatahub.os.uk/downloads/open) open data products
 - [Open Drone Map](https://opendronemap.org/)
 - [USGS - The National Map](https://www.usgs.gov/programs/national-geospatial-program/national-map)
+- [Protected Planet](https://www.protectedplanet.net/en)
+
+Cool Internet Things That Are Helpful Or Interesting Or Fun
+
+- [Fret Board Map](https://fretboard-map.web.app/)
+- [Nick Cave's Red Hand Files](https://www.theredhandfiles.com/)
 
 Cool individuals
 
