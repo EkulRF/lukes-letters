@@ -16,7 +16,7 @@ Taking advantage of [TMDB's](https://www.themoviedb.org/?language=en-GB) open mo
 [Click here to see the full interactive map!](https://ekulrf.github.io/BestFilmsByCountry/)
 
 <a href="https://ekulrf.github.io/BestFilmsByCountry/">
-  <img alt="Best Films By Country" src="https://photos.fife.usercontent.google.com/pw/ABLVV8466CC4xI1l5cAsiez9cwi9CsuFc9LCcR9oHkIUIGXWZRRWSKXydMnstw=w1280-h578-s-no?authuser=1">
+  <img alt="Best Films By Country" src="https://lh3.googleusercontent.com/pw/ABLVV84l9H6jWqvI6ATzgxRi007AMCq--VN6-k_mW6gfuOrwrGZPvhLXbS1gatDALGtXjBH3X4DL6q2rwKmxfZrA0bzjEK6tFAHN7no9rJypy2OO2-iKfiB-D5UlCbCvRBWhFsXPcljiAF9R5BIljl-Diqm_qg=w1280-h578-s-no?authuser=0">
 </a>
 
 Issues: 
