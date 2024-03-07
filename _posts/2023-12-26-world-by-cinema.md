@@ -9,7 +9,7 @@ comments: true
 author: Luke RF
 ---
 
-Once upon a time, I used the World Cinema society back in my undergrad Uni. It was often difficult to choose the film of the week to screen - all the films in all the world and I had to choose one that would both attract and satisfy an audience. Needless to say it was imperfect, but I had a good time.
+Once upon a time, I used to run the World Cinema society back in my undergrad Uni. It was often difficult to choose the film of the week to screen - all the films in all the world and I had to choose one that would both attract and satisfy an audience. Needless to say it was imperfect, but I had a good time.
 
 Taking advantage of [TMDB's](https://www.themoviedb.org/?language=en-GB) open movie database, I figured I can pull the best films from any given country. The best way to show geographic information is ... maps. So this is what I did. My friend and comrade [Alfie](https://alifeee.co.uk/) helped me a lot.
 
@@ -28,4 +28,4 @@ Interesting:
 - The 'best' film from Portugal is [Barbie as the Island Princess](https://www.themoviedb.org/movie/13283-barbie-as-the-island-princess)
 - Making maps, especially when you're interested in countries, is inherently political. Contested borders in and around China, the war in Ukraine, etc. force you to make political statements when making maps - even if unintentional.
 
-You can see the code and everything here if you like (https://github.com/EkulRF/BestFilmsByCountry).
+You can see the code and everything here if you like [here](https://github.com/EkulRF/BestFilmsByCountry).
