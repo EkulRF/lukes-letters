@@ -14,6 +14,7 @@ Cool open-source data.
 - [Open Drone Map](https://opendronemap.org/)
 - [USGS - The National Map](https://www.usgs.gov/programs/national-geospatial-program/national-map)
 - [Protected Planet](https://www.protectedplanet.net/en)
+- [Hyperspectral Datasets](https://tobinghd.wordpress.com/2022/11/22/hyperspectral-data-repositories-online/)
 
 Cool Internet Things That Are Helpful Or Interesting Or Fun
 
@@ -25,3 +26,4 @@ Cool individuals
 - [Qiusheng Wu](https://github.com/giswqs) (geospatial data science and open-source software development)
 - [Freya Holmér](https://github.com/FreyaHolmer) (Unity game development)
 - [Sebastian Lague](https://github.com/SebLague) (cool code simulations and game dev in Unity)
+- [Hilda's Brain Dump](https://tobinghd.wordpress.com/) (geospatial/hyperspectral data blog)
