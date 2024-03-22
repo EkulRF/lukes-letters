@@ -15,6 +15,7 @@ Cool open-source data.
 - [USGS - The National Map](https://www.usgs.gov/programs/national-geospatial-program/national-map)
 - [Protected Planet](https://www.protectedplanet.net/en)
 - [Hyperspectral Datasets](https://tobinghd.wordpress.com/2022/11/22/hyperspectral-data-repositories-online/)
+- [Old Book Scans](https://meretsegerbooks.cld.bz/)
 
 Cool Internet Things That Are Helpful Or Interesting Or Fun
 
